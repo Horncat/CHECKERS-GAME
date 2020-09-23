@@ -1,1 +1,1 @@
-# tradi
+# trading-sim
