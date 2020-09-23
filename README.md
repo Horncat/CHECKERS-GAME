@@ -1,1 +1,1 @@
-# trading-sim
+# trading-simulation
