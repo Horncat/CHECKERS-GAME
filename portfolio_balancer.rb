@@ -1,2 +1,2 @@
 require 'bigdecimal'
-require 'bigdec
+require 'bigdecimal/ut
