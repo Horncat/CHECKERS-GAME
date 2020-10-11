@@ -1,3 +1,5 @@
 require 'bigdecimal'
 require 'bigdecimal/util'
-require 'distributi
+require 'distribution'
+
+K
