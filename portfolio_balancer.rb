@@ -2,4 +2,4 @@ require 'bigdecimal'
 require 'bigdecimal/util'
 require 'distribution'
 
-KEYS = %i
+KEYS = %i[sek btc usd
