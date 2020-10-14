@@ -4,4 +4,5 @@ require 'distribution'
 
 KEYS = %i[sek btc usd goog].freeze
 
-INITIAL_AMOU
+INITIAL_AMOUNTS = {
+ 
