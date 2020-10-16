@@ -6,4 +6,4 @@ KEYS = %i[sek btc usd goog].freeze
 
 INITIAL_AMOUNTS = {
   sek: 10_000.to_d,
- 
+  usd: 
