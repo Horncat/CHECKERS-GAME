@@ -8,4 +8,5 @@ INITIAL_AMOUNTS = {
   sek: 10_000.to_d,
   usd: 1000.to_d,
   btc: 0.2.to_d,
-  goog: 
+  goog: 1.to_d
+}.f
