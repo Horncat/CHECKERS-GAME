@@ -9,4 +9,6 @@ INITIAL_AMOUNTS = {
   usd: 1000.to_d,
   btc: 0.2.to_d,
   goog: 1.to_d
-}.f
+}.freeze
+
+IN
