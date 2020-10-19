@@ -11,4 +11,4 @@ INITIAL_AMOUNTS = {
   goog: 1.to_d
 }.freeze
 
-INITIAL_RATE
+INITIAL_RATES_SEK = {
