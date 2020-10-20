@@ -12,4 +12,4 @@ INITIAL_AMOUNTS = {
 }.freeze
 
 INITIAL_RATES_SEK = {
-  sek
+  sek: 1.to_d,
