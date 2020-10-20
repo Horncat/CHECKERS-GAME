@@ -12,3 +12,4 @@ INITIAL_AMOUNTS = {
 }.freeze
 
 INITIAL_RATES_SEK = {
+  sek
