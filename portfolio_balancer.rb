@@ -13,4 +13,5 @@ INITIAL_AMOUNTS = {
 
 INITIAL_RATES_SEK = {
   sek: 1.to_d,
-  usd: 8.04
+  usd: 8.04.to_d,
+ 
