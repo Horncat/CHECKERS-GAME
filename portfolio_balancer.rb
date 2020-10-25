@@ -15,4 +15,5 @@ INITIAL_RATES_SEK = {
   sek: 1.to_d,
   usd: 8.04.to_d,
   btc: 90_594.66.to_d,
-  goog: 1137.51.to_d
+  goog: 1137.51.to_d * 8.04
+}.
