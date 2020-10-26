@@ -18,3 +18,4 @@ INITIAL_RATES_SEK = {
   goog: 1137.51.to_d * 8.04
 }.freeze
 
+class Movi
