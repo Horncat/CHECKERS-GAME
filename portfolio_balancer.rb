@@ -19,4 +19,4 @@ INITIAL_RATES_SEK = {
 }.freeze
 
 class MovingAverage
-  def in
+  def initialize(p
