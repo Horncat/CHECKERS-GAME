@@ -19,4 +19,5 @@ INITIAL_RATES_SEK = {
 }.freeze
 
 class MovingAverage
-  def initialize(period
+  def initialize(period)
+    @peri
