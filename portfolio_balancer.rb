@@ -21,4 +21,5 @@ INITIAL_RATES_SEK = {
 class MovingAverage
   def initialize(period)
     @period = period
-    @
+    @n = 0
+  
