@@ -22,4 +22,4 @@ class MovingAverage
   def initialize(period)
     @period = period
     @n = 0
-    @total = 0.
+    @total = 0.to_
