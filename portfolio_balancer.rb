@@ -24,3 +24,5 @@ class MovingAverage
     @n = 0
     @total = 0.to_d
   end
+
+  def a
