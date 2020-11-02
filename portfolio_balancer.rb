@@ -25,4 +25,4 @@ class MovingAverage
     @total = 0.to_d
   end
 
-  def append(va
+  def append(value
