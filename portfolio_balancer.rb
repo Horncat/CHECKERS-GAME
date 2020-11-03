@@ -26,4 +26,5 @@ class MovingAverage
   end
 
   def append(value)
-    if @n >= 
+    if @n >= @period
+     
