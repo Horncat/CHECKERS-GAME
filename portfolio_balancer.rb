@@ -26,4 +26,4 @@ class MovingAverage
   end
 
   def append(value)
-    if @
+    if @n >= 
