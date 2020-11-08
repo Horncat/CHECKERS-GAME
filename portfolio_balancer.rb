@@ -27,4 +27,5 @@ class MovingAverage
 
   def append(value)
     if @n >= @period
-      @total = ((@total / @period) * (@period - 1) + value).round(10
+      @total = ((@total / @period) * (@period - 1) + value).round(10)
+    else
