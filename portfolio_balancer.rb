@@ -29,4 +29,4 @@ class MovingAverage
     if @n >= @period
       @total = ((@total / @period) * (@period - 1) + value).round(10)
     else
-      @n
+      @n +
