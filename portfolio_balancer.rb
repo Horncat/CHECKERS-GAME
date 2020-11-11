@@ -31,4 +31,5 @@ class MovingAverage
     else
       @n += 1
       @total += value
-    en
+    end
+  end
