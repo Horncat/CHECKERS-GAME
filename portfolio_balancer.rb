@@ -30,4 +30,5 @@ class MovingAverage
       @total = ((@total / @period) * (@period - 1) + value).round(10)
     else
       @n += 1
-      @total += val
+      @total += value
+    en
