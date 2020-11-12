@@ -35,4 +35,5 @@ class MovingAverage
   end
 
   def current_value
-    @tota
+    @total / @n
+  
