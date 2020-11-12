@@ -34,4 +34,5 @@ class MovingAverage
     end
   end
 
-  def current_v
+  def current_value
+    
