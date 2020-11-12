@@ -33,3 +33,5 @@ class MovingAverage
       @total += value
     end
   end
+
+  def current_v
