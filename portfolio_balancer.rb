@@ -36,4 +36,5 @@ class MovingAverage
 
   def current_value
     @total / @n
-  
+  end
+e
