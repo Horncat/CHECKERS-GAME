@@ -39,4 +39,4 @@ class MovingAverage
   end
 end
 
-# dai
+# daily std de
