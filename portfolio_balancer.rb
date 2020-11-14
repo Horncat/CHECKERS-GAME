@@ -39,4 +39,4 @@ class MovingAverage
   end
 end
 
-# daily std de
+# daily std dev of ra
