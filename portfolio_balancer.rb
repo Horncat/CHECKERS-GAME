@@ -39,4 +39,4 @@ class MovingAverage
   end
 end
 
-# daily std dev of rate relative to 90 days 
+# daily std dev of rate relative to 90 days rolling mea
