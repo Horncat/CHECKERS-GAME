@@ -40,4 +40,4 @@ class MovingAverage
 end
 
 # daily std dev of rate relative to 90 days rolling mean price
-RATES_STD_D
+RATES_STD_DEV = {
