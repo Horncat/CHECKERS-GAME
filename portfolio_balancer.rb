@@ -43,4 +43,5 @@ end
 RATES_STD_DEV = {
   sek: 0.to_d,
   usd: 0.005.to_d,
-  btc: 0.07
+  btc: 0.07.to_d,
+ 
