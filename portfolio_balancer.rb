@@ -42,4 +42,5 @@ end
 # daily std dev of rate relative to 90 days rolling mean price
 RATES_STD_DEV = {
   sek: 0.to_d,
-  usd: 0.005.to_
+  usd: 0.005.to_d,
+  btc: 0.07
