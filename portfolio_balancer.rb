@@ -45,3 +45,4 @@ RATES_STD_DEV = {
   usd: 0.005.to_d,
   btc: 0.07.to_d,
   goog: 0.01.to_d
+}.fr
