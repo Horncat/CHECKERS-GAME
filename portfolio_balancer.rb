@@ -47,4 +47,5 @@ RATES_STD_DEV = {
   goog: 0.01.to_d
 }.freeze
 
-GROWTH_Y
+GROWTH_YOY = {
+  s
