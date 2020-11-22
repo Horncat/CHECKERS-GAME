@@ -48,4 +48,4 @@ RATES_STD_DEV = {
 }.freeze
 
 GROWTH_YOY = {
-  sek: 1
+  sek: 1.to_d,
