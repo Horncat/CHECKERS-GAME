@@ -50,3 +50,4 @@ RATES_STD_DEV = {
 GROWTH_YOY = {
   sek: 1.to_d,
   usd: 1.to_d,
+  btc
