@@ -52,4 +52,6 @@ GROWTH_YOY = {
   usd: 1.to_d,
   btc: 3.2.to_d, # https://www.reddit.com/r/Bitcoin/comments/76bctp/bitcoin_price_history_growing_by_a_factor_of_32/
   goog: 1.05.to_d
-}.fre
+}.freeze
+
+def f
