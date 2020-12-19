@@ -54,4 +54,4 @@ GROWTH_YOY = {
   goog: 1.05.to_d
 }.freeze
 
-def find_proportions(amounts: IN
+def find_proportions(amounts: INITIAL_AM
