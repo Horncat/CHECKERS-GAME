@@ -56,4 +56,4 @@ GROWTH_YOY = {
 
 def find_proportions(amounts: INITIAL_AMOUNTS, rates: INITIAL_RATES_SEK)
   sek_values = KEYS.map { |key| [key, amounts[key] * rates[key]] }
-  total = sek_values
+  total = sek_values.sum {
