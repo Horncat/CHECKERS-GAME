@@ -62,3 +62,5 @@ def find_proportions(amounts: INITIAL_AMOUNTS, rates: INITIAL_RATES_SEK)
     acc[key] = value / total
   end
 end
+
+PROPORT
