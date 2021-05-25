@@ -60,4 +60,5 @@ def find_proportions(amounts: INITIAL_AMOUNTS, rates: INITIAL_RATES_SEK)
 
   sek_values.each_with_object({}) do |(key, value), acc|
     acc[key] = value / total
-  
+  end
+end
