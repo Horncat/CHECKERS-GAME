@@ -63,4 +63,5 @@ def find_proportions(amounts: INITIAL_AMOUNTS, rates: INITIAL_RATES_SEK)
   end
 end
 
-PROPORTIONS = find_proportions.fre
+PROPORTIONS = find_proportions.freeze
+
