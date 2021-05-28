@@ -65,4 +65,4 @@ end
 
 PROPORTIONS = find_proportions.freeze
 
-puts "Propo
+puts "Proportions
