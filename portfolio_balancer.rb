@@ -65,4 +65,6 @@ end
 
 PROPORTIONS = find_proportions.freeze
 
-puts "Proportions: #{PROPORTI
+puts "Proportions: #{PROPORTIONS}"
+
+d
