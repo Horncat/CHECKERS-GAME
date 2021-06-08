@@ -67,4 +67,4 @@ PROPORTIONS = find_proportions.freeze
 
 puts "Proportions: #{PROPORTIONS}"
 
-def random(lowe
+def random(lower_bound
