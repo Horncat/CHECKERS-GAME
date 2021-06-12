@@ -68,4 +68,4 @@ PROPORTIONS = find_proportions.freeze
 puts "Proportions: #{PROPORTIONS}"
 
 def random(lower_bound, upper_bound)
-  rand(lower_bound.to_f.ne
+  rand(lower_bound.to_f.next_fl
