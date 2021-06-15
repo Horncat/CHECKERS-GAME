@@ -71,4 +71,4 @@ def random(lower_bound, upper_bound)
   rand(lower_bound.to_f.next_float...upper_bound)
 end
 
-def d
+def display_hash(
