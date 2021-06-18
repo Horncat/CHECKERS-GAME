@@ -72,4 +72,4 @@ def random(lower_bound, upper_bound)
 end
 
 def display_hash(amounts)
-  amounts.m
+  amounts.merge(amo
