@@ -71,4 +71,5 @@ def random(lower_bound, upper_bound)
   rand(lower_bound.to_f.next_float...upper_bound)
 end
 
-def display_hash(amount
+def display_hash(amounts)
+  amo
