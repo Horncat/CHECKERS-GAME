@@ -75,4 +75,4 @@ def display_hash(amounts)
   amounts.merge(amounts) { |_k, v1, _v2| display_decimal(v1) }
 end
 
-def displ
+def display_decim
