@@ -76,3 +76,4 @@ def display_hash(amounts)
 end
 
 def display_decimal(value)
+  if v
