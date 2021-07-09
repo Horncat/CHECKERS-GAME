@@ -79,4 +79,4 @@ def display_decimal(value)
   if value > 0 && value < 0.01 || value < 0 && value > -0.01
     format('%.5f', value.truncate(5))
   else
-    format('%.2f', v
+    format('%.2f', value.tru
