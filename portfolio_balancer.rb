@@ -81,3 +81,6 @@ def display_decimal(value)
   else
     format('%.2f', value.truncate(2))
   end
+end
+
+# 
