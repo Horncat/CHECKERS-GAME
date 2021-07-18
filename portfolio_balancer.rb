@@ -83,4 +83,4 @@ def display_decimal(value)
   end
 end
 
-# State machine that t
+# State machine that triggers 
