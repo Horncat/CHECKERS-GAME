@@ -83,4 +83,5 @@ def display_decimal(value)
   end
 end
 
-# State machine that triggers shock at random 
+# State machine that triggers shock at random time
+cla
