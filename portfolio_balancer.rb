@@ -84,4 +84,5 @@ def display_decimal(value)
 end
 
 # State machine that triggers shock at random time
-class ShockGener
+class ShockGenerator
+  d
