@@ -85,4 +85,4 @@ end
 
 # State machine that triggers shock at random time
 class ShockGenerator
-  d
+  def initia
