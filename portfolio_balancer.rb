@@ -86,4 +86,4 @@ end
 # State machine that triggers shock at random time
 class ShockGenerator
   def initialize(interval_mean:, interval_std_dev:)
-    @rng = Distri
+    @rng = Distribut
