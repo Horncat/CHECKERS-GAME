@@ -87,4 +87,4 @@ end
 class ShockGenerator
   def initialize(interval_mean:, interval_std_dev:)
     @rng = Distribution::Normal.rng(interval_mean, interval_std_dev)
-    @days_until_ne
+    @days_until_next = @r
