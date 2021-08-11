@@ -91,4 +91,4 @@ class ShockGenerator
     @state = :normal
   end
 
-  # advan
+  # advance state b
