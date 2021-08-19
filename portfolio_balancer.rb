@@ -91,4 +91,5 @@ class ShockGenerator
     @state = :normal
   end
 
-  # advance state by one da
+  # advance state by one day
+  def ad
