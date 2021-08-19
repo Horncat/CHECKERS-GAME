@@ -92,4 +92,5 @@ class ShockGenerator
   end
 
   # advance state by one day
-  def advanc
+  def advance
+    i
