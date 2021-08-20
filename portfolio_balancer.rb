@@ -93,4 +93,4 @@ class ShockGenerator
 
   # advance state by one day
   def advance
-    i
+    if @days_u
