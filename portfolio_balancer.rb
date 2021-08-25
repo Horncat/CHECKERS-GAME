@@ -95,4 +95,4 @@ class ShockGenerator
   def advance
     if @days_until_next <= 0
       @state = :shock
-      @days_until_next
+      @days_until_next = @r
