@@ -96,4 +96,4 @@ class ShockGenerator
     if @days_until_next <= 0
       @state = :shock
       @days_until_next = @rng.call
-  
+    else
