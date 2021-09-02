@@ -99,4 +99,5 @@ class ShockGenerator
     else
       @state = :normal
       @days_until_next -= 1
-   
+    end
+ 
