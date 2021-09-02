@@ -100,4 +100,6 @@ class ShockGenerator
       @state = :normal
       @days_until_next -= 1
     end
- 
+  end
+
+  
