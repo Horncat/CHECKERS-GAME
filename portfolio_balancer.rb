@@ -102,4 +102,4 @@ class ShockGenerator
     end
   end
 
-  
+  def shock
