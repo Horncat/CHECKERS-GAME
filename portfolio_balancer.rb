@@ -103,4 +103,4 @@ class ShockGenerator
   end
 
   def shock?
-    @stat
+    @state =
