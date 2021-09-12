@@ -107,4 +107,4 @@ class ShockGenerator
   end
 end
 
-clas
+class NoShockG
