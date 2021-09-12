@@ -104,4 +104,5 @@ class ShockGenerator
 
   def shock?
     @state == :shock
-  e
+  end
+end
