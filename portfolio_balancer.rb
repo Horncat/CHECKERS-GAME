@@ -106,3 +106,5 @@ class ShockGenerator
     @state == :shock
   end
 end
+
+clas
