@@ -108,4 +108,4 @@ class ShockGenerator
 end
 
 class NoShockGenerator
-  d
+  def advance;
