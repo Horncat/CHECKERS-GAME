@@ -110,4 +110,5 @@ end
 class NoShockGenerator
   def advance; end
 
-  def sh
+  def shock?
+ 
