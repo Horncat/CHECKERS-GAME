@@ -111,4 +111,4 @@ class NoShockGenerator
   def advance; end
 
   def shock?
- 
+    false
