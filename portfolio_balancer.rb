@@ -113,3 +113,5 @@ class NoShockGenerator
   def shock?
     false
   end
+end
+
