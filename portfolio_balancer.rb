@@ -115,4 +115,4 @@ class NoShockGenerator
   end
 end
 
-# key ->
+# key -> (mean
