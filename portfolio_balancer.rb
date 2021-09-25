@@ -116,4 +116,4 @@ class NoShockGenerator
 end
 
 # key -> (mean, std_dev)
-SHOCK_INT
+SHOCK_INTERVALS
