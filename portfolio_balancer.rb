@@ -117,4 +117,5 @@ end
 
 # key -> (mean, std_dev)
 SHOCK_INTERVALS_DAYS = {
-  sek: 
+  sek: [0, 0],
+ 
