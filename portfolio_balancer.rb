@@ -119,4 +119,5 @@ end
 SHOCK_INTERVALS_DAYS = {
   sek: [0, 0],
   usd: [250, 60],
-  goog: [100, 20
+  goog: [100, 20],
+ 
