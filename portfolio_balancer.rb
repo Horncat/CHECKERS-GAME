@@ -121,3 +121,4 @@ SHOCK_INTERVALS_DAYS = {
   usd: [250, 60],
   goog: [100, 20],
   btc: [180, 60]
+}.freez
