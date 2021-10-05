@@ -124,4 +124,4 @@ SHOCK_INTERVALS_DAYS = {
 }.freeze
 
 n = 0
-amount
+amounts = INITIAL
