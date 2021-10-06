@@ -124,4 +124,4 @@ SHOCK_INTERVALS_DAYS = {
 }.freeze
 
 n = 0
-amounts = INITIAL_AMOUN
+amounts = INITIAL_AMOUNTS.dup
