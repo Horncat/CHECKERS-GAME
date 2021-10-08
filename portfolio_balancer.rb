@@ -125,4 +125,4 @@ SHOCK_INTERVALS_DAYS = {
 
 n = 0
 amounts = INITIAL_AMOUNTS.dup
-rates = INITIA
+rates = INITIAL_RATES_SEK
