@@ -126,4 +126,4 @@ SHOCK_INTERVALS_DAYS = {
 n = 0
 amounts = INITIAL_AMOUNTS.dup
 rates = INITIAL_RATES_SEK.dup
-dail
+daily_growth = 
