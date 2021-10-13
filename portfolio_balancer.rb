@@ -126,4 +126,5 @@ SHOCK_INTERVALS_DAYS = {
 n = 0
 amounts = INITIAL_AMOUNTS.dup
 rates = INITIAL_RATES_SEK.dup
-daily_growth = GROWTH_YOY.merge(GROWTH_YOY) do |_k, v1, _v
+daily_growth = GROWTH_YOY.merge(GROWTH_YOY) do |_k, v1, _v2|
+  v
