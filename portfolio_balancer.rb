@@ -127,4 +127,5 @@ n = 0
 amounts = INITIAL_AMOUNTS.dup
 rates = INITIAL_RATES_SEK.dup
 daily_growth = GROWTH_YOY.merge(GROWTH_YOY) do |_k, v1, _v2|
-  v1**(1.to_d 
+  v1**(1.to_d / 365)
+en
