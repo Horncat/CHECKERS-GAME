@@ -129,4 +129,4 @@ rates = INITIAL_RATES_SEK.dup
 daily_growth = GROWTH_YOY.merge(GROWTH_YOY) do |_k, v1, _v2|
   v1**(1.to_d / 365)
 end
-rngs = RATES_STD_DEV.map do 
+rngs = RATES_STD_DEV.map do |k,
