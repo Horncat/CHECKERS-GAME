@@ -133,4 +133,4 @@ rngs = RATES_STD_DEV.map do |k, v|
   [k, Distribution::Normal.rng(0, v)]
 end.to_h
 
-shock_rngs 
+shock_rngs = RATE
