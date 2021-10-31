@@ -134,4 +134,4 @@ rngs = RATES_STD_DEV.map do |k, v|
 end.to_h
 
 shock_rngs = RATES_STD_DEV.map do |k, v|
-  [k, Distribution::No
+  [k, Distribution::Norma
