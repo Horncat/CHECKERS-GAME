@@ -137,4 +137,5 @@ shock_rngs = RATES_STD_DEV.map do |k, v|
   [k, Distribution::Normal.rng(0, 10 * v)]
 end.to_h
 
-rate_moving_averages = KEYS.map do
+rate_moving_averages = KEYS.map do |key|
+ 
