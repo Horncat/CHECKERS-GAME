@@ -138,4 +138,4 @@ shock_rngs = RATES_STD_DEV.map do |k, v|
 end.to_h
 
 rate_moving_averages = KEYS.map do |key|
-  ma = MovingAverage.new
+  ma = MovingAverage.new(90)
