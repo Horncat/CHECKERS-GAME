@@ -139,4 +139,4 @@ end.to_h
 
 rate_moving_averages = KEYS.map do |key|
   ma = MovingAverage.new(90)
-  ma.append(INI
+  ma.append(INITIAL_RATES_S
