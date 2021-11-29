@@ -142,3 +142,5 @@ rate_moving_averages = KEYS.map do |key|
   ma.append(INITIAL_RATES_SEK[key])
   [key, ma]
 end.to_h
+
+ideal_val
