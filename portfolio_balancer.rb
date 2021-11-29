@@ -143,4 +143,4 @@ rate_moving_averages = KEYS.map do |key|
   [key, ma]
 end.to_h
 
-ideal_val
+ideal_values = INITIA
