@@ -143,4 +143,5 @@ rate_moving_averages = KEYS.map do |key|
   [key, ma]
 end.to_h
 
-ideal_values = INITIAL_RATES_SEK.
+ideal_values = INITIAL_RATES_SEK.dup
+shock
