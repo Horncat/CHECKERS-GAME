@@ -144,4 +144,5 @@ rate_moving_averages = KEYS.map do |key|
 end.to_h
 
 ideal_values = INITIAL_RATES_SEK.dup
-shock_generators = SHOCK_INTERVALS_DAYS.map do |key, (mean, std_dev
+shock_generators = SHOCK_INTERVALS_DAYS.map do |key, (mean, std_dev)|
+  n
