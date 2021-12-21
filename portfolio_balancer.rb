@@ -146,4 +146,4 @@ end.to_h
 ideal_values = INITIAL_RATES_SEK.dup
 shock_generators = SHOCK_INTERVALS_DAYS.map do |key, (mean, std_dev)|
   next [key, NoShockGenerator.new] if mean == 0 && std_dev == 0
-  [key, ShockGenerator.new(interval_mean:
+  [key, ShockGenerator.new(interval_mean: mean
