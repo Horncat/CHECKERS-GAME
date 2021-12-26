@@ -149,4 +149,4 @@ shock_generators = SHOCK_INTERVALS_DAYS.map do |key, (mean, std_dev)|
   [key, ShockGenerator.new(interval_mean: mean, interval_std_dev: std_dev)]
 end.to_h
 
-loo
+loop do
