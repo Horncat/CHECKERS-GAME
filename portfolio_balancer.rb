@@ -150,4 +150,4 @@ shock_generators = SHOCK_INTERVALS_DAYS.map do |key, (mean, std_dev)|
 end.to_h
 
 loop do
-  puts "\n\nstart of day #{n += 1} balance: #{displa
+  puts "\n\nstart of day #{n += 1} balance: #{display_hash
