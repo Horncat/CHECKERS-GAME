@@ -153,3 +153,4 @@ loop do
   puts "\n\nstart of day #{n += 1} balance: #{display_hash(amounts)}"
 
   # STEP 1: market movements to rates
+  KEYS.each 
