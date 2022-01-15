@@ -154,3 +154,4 @@ loop do
 
   # STEP 1: market movements to rates
   KEYS.each do |key|
+   
