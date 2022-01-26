@@ -154,4 +154,4 @@ loop do
 
   # STEP 1: market movements to rates
   KEYS.each do |key|
-    # 1.1: find ideal value
+    # 1.1: find ideal value according 
