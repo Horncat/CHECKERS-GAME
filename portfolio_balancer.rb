@@ -155,4 +155,4 @@ loop do
   # STEP 1: market movements to rates
   KEYS.each do |key|
     # 1.1: find ideal value according to long term trend
-    ideal_value = (idea
+    ideal_value = (ideal_values[key
