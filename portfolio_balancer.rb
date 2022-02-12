@@ -156,3 +156,5 @@ loop do
   KEYS.each do |key|
     # 1.1: find ideal value according to long term trend
     ideal_value = (ideal_values[key] *= daily_growth[key])
+
+    # 
