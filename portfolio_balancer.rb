@@ -157,4 +157,5 @@ loop do
     # 1.1: find ideal value according to long term trend
     ideal_value = (ideal_values[key] *= daily_growth[key])
 
-    # 1.2: calculate new rate t1 based on gaussian with mean=t0 and std dev by ke
+    # 1.2: calculate new rate t1 based on gaussian with mean=t0 and std dev by key
+    sg = sh
