@@ -159,4 +159,5 @@ loop do
 
     # 1.2: calculate new rate t1 based on gaussian with mean=t0 and std dev by key
     sg = shock_generators[key]
-    
+    sg.advance
+
