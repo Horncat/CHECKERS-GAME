@@ -161,3 +161,4 @@ loop do
     sg = shock_generators[key]
     sg.advance
 
+    t0 =
