@@ -161,4 +161,5 @@ loop do
     sg = shock_generators[key]
     sg.advance
 
-    t0 = rates
+    t0 = rates[key]
+
