@@ -163,4 +163,4 @@ loop do
 
     t0 = rates[key]
 
-    # 10x std de
+    # 10x std dev when a 
