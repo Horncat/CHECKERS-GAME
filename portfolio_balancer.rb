@@ -165,4 +165,4 @@ loop do
 
     # 10x std dev when a shock happens
     s = if sg.shock?
-          puts 
+          puts "SHOCK 
