@@ -166,4 +166,5 @@ loop do
     # 10x std dev when a shock happens
     s = if sg.shock?
           puts "SHOCK to rate of #{key}!!!"
-          shock_rngs[key].ca
+          shock_rngs[key].call
+    
