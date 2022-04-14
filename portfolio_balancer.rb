@@ -167,4 +167,4 @@ loop do
     s = if sg.shock?
           puts "SHOCK to rate of #{key}!!!"
           shock_rngs[key].call
-    
+        el
