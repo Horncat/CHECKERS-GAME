@@ -168,4 +168,4 @@ loop do
           puts "SHOCK to rate of #{key}!!!"
           shock_rngs[key].call
         else
-          rngs[k
+          rngs[key]
