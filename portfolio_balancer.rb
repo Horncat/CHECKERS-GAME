@@ -169,4 +169,4 @@ loop do
           shock_rngs[key].call
         else
           rngs[key].call
-       
+        end
