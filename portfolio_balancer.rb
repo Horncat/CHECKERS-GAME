@@ -171,4 +171,4 @@ loop do
           rngs[key].call
         end
 
-    m = rate_movin
+    m = rate_moving_average
