@@ -171,4 +171,4 @@ loop do
           rngs[key].call
         end
 
-    m 
+    m = rate_movin
