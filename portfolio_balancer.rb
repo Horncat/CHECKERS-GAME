@@ -171,4 +171,5 @@ loop do
           rngs[key].call
         end
 
-    m = rate_moving_averages[key].current_val
+    m = rate_moving_averages[key].current_value
+    # puts
