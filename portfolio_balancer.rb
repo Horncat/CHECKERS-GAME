@@ -172,4 +172,4 @@ loop do
         end
 
     m = rate_moving_averages[key].current_value
-    # puts "Key: #{key} | R
+    # puts "Key: #{key} | Rel st
