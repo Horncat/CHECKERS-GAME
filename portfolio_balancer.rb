@@ -173,4 +173,5 @@ loop do
 
     m = rate_moving_averages[key].current_value
     # puts "Key: #{key} | Rel std dev: #{s} | Mean 90: #{display_decimal(m)}"
-    t1 = 
+    t1 = t0 + m * s
+  
