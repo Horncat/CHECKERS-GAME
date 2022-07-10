@@ -176,4 +176,4 @@ loop do
     t1 = t0 + m * s
     t1 = 0.01.to_d if t1 <= 0
 
-    # 1.3: let actual rate close in o
+    # 1.3: let actual rate close in on ideal 
