@@ -177,3 +177,4 @@ loop do
     t1 = 0.01.to_d if t1 <= 0
 
     # 1.3: let actual rate close in on ideal value
+    
