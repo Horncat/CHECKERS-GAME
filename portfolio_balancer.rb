@@ -179,4 +179,5 @@ loop do
     # 1.3: let actual rate close in on ideal value
     adjustment_rate = 0.01.to_d
 
-    t1 = t1 > ideal_value
+    t1 = t1 > ideal_value ?
+      
