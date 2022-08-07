@@ -180,4 +180,4 @@ loop do
     adjustment_rate = 0.01.to_d
 
     t1 = t1 > ideal_value ?
-      t1 - adjustment_rate * (t1
+      t1 - adjustment_rate * (t1 - ideal
