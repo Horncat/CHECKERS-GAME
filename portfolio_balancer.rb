@@ -183,4 +183,4 @@ loop do
       t1 - adjustment_rate * (t1 - ideal_value) :
       t1 + adjustment_rate * (ideal_value - t1)
 
-    
+    t1 = t
