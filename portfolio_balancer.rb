@@ -185,4 +185,4 @@ loop do
 
     t1 = t1.round(10)
 
-    ra
+    rates[key
