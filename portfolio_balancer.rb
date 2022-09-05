@@ -186,3 +186,4 @@ loop do
     t1 = t1.round(10)
 
     rates[key] = t1
+    ra
