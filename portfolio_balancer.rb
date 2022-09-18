@@ -186,4 +186,6 @@ loop do
     t1 = t1.round(10)
 
     rates[key] = t1
-    rate_moving_averages[key].append(t1
+    rate_moving_averages[key].append(t1)
+  end
+
