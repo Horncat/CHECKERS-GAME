@@ -189,4 +189,4 @@ loop do
     rate_moving_averages[key].append(t1)
   end
 
-  puts "market movements
+  puts "market movements done, n
