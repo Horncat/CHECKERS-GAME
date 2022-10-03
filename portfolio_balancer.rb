@@ -189,4 +189,4 @@ loop do
     rate_moving_averages[key].append(t1)
   end
 
-  puts "market movements done, new rates: #{display_
+  puts "market movements done, new rates: #{display_hash(ra
