@@ -191,4 +191,4 @@ loop do
 
   puts "market movements done, new rates: #{display_hash(rates)}"
 
-  total
+  total_value 
