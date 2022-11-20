@@ -192,4 +192,5 @@ loop do
   puts "market movements done, new rates: #{display_hash(rates)}"
 
   total_value = KEYS.sum { |key| rates[key] * amounts[key] }
-  initial_amounts_new_value = KEYS.sum { |key| rates[key] * INITIAL_AMOUNTS[
+  initial_amounts_new_value = KEYS.sum { |key| rates[key] * INITIAL_AMOUNTS[key] }
+  tr
