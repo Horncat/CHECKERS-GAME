@@ -193,4 +193,4 @@ loop do
 
   total_value = KEYS.sum { |key| rates[key] * amounts[key] }
   initial_amounts_new_value = KEYS.sum { |key| rates[key] * INITIAL_AMOUNTS[key] }
-  trading_effect = (total_value
+  trading_effect = (total_value / initial_amo
