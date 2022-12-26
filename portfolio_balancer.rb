@@ -195,4 +195,4 @@ loop do
   initial_amounts_new_value = KEYS.sum { |key| rates[key] * INITIAL_AMOUNTS[key] }
   trading_effect = (total_value / initial_amounts_new_value) - 1
   puts "Total value: #{display_decimal(total_value)} | " \
-       "If no trading had happene
+       "If no trading had happened: #
