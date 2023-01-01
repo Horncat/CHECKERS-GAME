@@ -196,4 +196,4 @@ loop do
   trading_effect = (total_value / initial_amounts_new_value) - 1
   puts "Total value: #{display_decimal(total_value)} | " \
        "If no trading had happened: #{display_decimal(initial_amounts_new_value)} | " \
-       "
+       "Trading ef
