@@ -198,4 +198,4 @@ loop do
        "If no trading had happened: #{display_decimal(initial_amounts_new_value)} | " \
        "Trading effect: #{display_decimal(trading_effect)}"
 
-  sek_growth = amounts[
+  sek_growth = amounts[:sek
