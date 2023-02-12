@@ -200,3 +200,5 @@ loop do
 
   sek_growth = amounts[:sek] / INITIAL_AMOUNTS[:sek]
   puts "SEK growth: #{display_decimal(sek_growth)}"
+
+  # STEP 
