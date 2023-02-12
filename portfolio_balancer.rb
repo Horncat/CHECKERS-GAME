@@ -199,4 +199,4 @@ loop do
        "Trading effect: #{display_decimal(trading_effect)}"
 
   sek_growth = amounts[:sek] / INITIAL_AMOUNTS[:sek]
-  puts "SEK growth: #{display_decimal(
+  puts "SEK growth: #{display_decimal(sek_g
