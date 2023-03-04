@@ -202,4 +202,5 @@ loop do
   puts "SEK growth: #{display_decimal(sek_growth)}"
 
   # STEP 2: re-balance according to proportions
-  # (assuming zero transaction cost
+  # (assuming zero transaction costs)
+  
