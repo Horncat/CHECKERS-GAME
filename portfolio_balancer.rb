@@ -203,4 +203,4 @@ loop do
 
   # STEP 2: re-balance according to proportions
   # (assuming zero transaction costs)
-  KEYS.ea
+  KEYS.each do |
