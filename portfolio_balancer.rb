@@ -204,4 +204,4 @@ loop do
   # STEP 2: re-balance according to proportions
   # (assuming zero transaction costs)
   KEYS.each do |key|
-    new_amount = total_value * (PROPORT
+    new_amount = total_value * (PROPORTIONS[key] 
