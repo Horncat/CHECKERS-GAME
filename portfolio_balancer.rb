@@ -205,4 +205,5 @@ loop do
   # (assuming zero transaction costs)
   KEYS.each do |key|
     new_amount = total_value * (PROPORTIONS[key] / rates[key])
-    # puts "Total value: #{display_decimal(total_value)} | New amount: #{display_decimal(new_amount)
+    # puts "Total value: #{display_decimal(total_value)} | New amount: #{display_decimal(new_amount)}"
+    am
