@@ -207,3 +207,5 @@ loop do
     new_amount = total_value * (PROPORTIONS[key] / rates[key])
     # puts "Total value: #{display_decimal(total_value)} | New amount: #{display_decimal(new_amount)}"
     amounts[key] = new_amount.round(10)
+  end
+end
